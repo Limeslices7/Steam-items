@@ -1,6 +1,6 @@
 # 🐸 Frogs — Steam Inventory Assets
 
-This repository contains all the images used to display in-game items from *Frogs* in the Steam client (inventory, marketplace, etc.).
+This repository contains all the images used to display in-game items from **Frogs** in the Steam client (inventory, marketplace, etc.).
 
 ## 📁 What's inside:
 - Frog icons (24)
